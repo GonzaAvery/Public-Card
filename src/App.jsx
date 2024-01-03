@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="bg-slate-200 h-screen overflow-hidden flex justify-center items-center w-full tracking-tighter text-white">
       <ShaderGradientCanvas
-        importedFiber={{ ...fiber, ...drei, ...reactSpring }}
+        importedfiber={{ ...fiber, ...drei, ...reactSpring }}
         style={{
           position: "absolute",
           top: 0,
